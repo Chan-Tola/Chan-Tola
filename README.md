@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chan-tola" alt="chan-tola" /></a> </p>
 
-- 🌱 I’m currently learning **I study backend with Node JS , Express JS**
+- 🌱 I’m currently learning **I study backend with Node JS , Express JS,  PHP , Laravel ,SQL ,MySQl**
 
 - 💬 Ask me about **JS, ReactJS , Vue JS**
 
