@@ -10,13 +10,7 @@
 <br/>
 
 <div align="center" style="position: relative;">
-  <!-- Daily.dev DevCard - Fixed positioning and size -->
-  <div style="position: absolute; top: 0; right: 0; z-index: 10;">
-    <a href="https://app.daily.dev/renchantola">
-      <img src="https://api.daily.dev/devcards/v2/xDHMbKHfWKJXATPtH7VGi.png?r=cwy&type=default" width="250" alt="REN CHANTOLA's Dev Card"/>
-    </a>
-  </div>
- 
+    
  🔭 I'm currently working on **web development at NICC**
  
  🌱 I'm currently learning **Docker, AWS, Laravel API**
