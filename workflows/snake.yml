@@ -15,7 +15,7 @@ jobs:
       - name: Generate GitHub Contributions Snake
         uses: platane/snk@latest
         with:
-          username: chan-tola   # <-- replace with your GitHub username
+          username: Chan-Tola  # <-- replace with your GitHub username
           output: ./output/github-contribution-grid-snake.svg
 
       - name: Commit generated SVG
