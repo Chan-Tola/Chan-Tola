@@ -11,13 +11,10 @@
 
 <div align="center" style="position: relative;">
     
- 🔭 I'm currently working on **web development at NICC**
- 
- 🌱 I'm currently learning **Docker, AWS, Laravel API**
+ 🔭 I'm currently working on **web development at Techey**
 
- 💬 Ask me about **Vue, React, Express, MySQL, MongoDB...**
+ 💬 Ask me about **Vue, React, Express, Laravel, Postgres SQL, MongoDB...**
 
- ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 </div>
 
 <br/><br/><br/> <!-- Added spacing to account for the DevCard -->
