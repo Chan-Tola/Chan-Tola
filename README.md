@@ -2,16 +2,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=chan-tola.chan-tola" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ren+Chantola!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Ren+Chantola!;" />
 </h1>
 
-<h3 align="center">A Passionate Web Developer from Cambodia 🇰🇭</h3>
+<h3 align="center">A Passionate Web Developer from Cambodia</h3>
 
 <br/>
 
 <div align="center" style="position: relative;">
     
-  I'm currently working on **web development at Techey**
+  I'm currently working on **Web development at Techey**
 
  Ask me about **Vue, React, Express, Laravel, Postgres SQL, MongoDB...**
 
@@ -49,11 +49,11 @@
 <br/>
 <hr/>
 
-<h2 align="center">📊 GitHub Stats & Activity 📊</h2>
+<h2 align="center">GitHub Stats & Activity</h2>
 
 <div align="center">
   <!-- Snake Animation -->
-  <h3>🐍 My Contribution Graph 🐍</h3>
+  <h3>My Contribution Graph</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chan-Tola/Chan-Tola/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chan-Tola/Chan-Tola/output/github-snake.svg">
@@ -83,13 +83,13 @@
 
 <hr/>
 
-<h2 align="center">⚡ Recent GitHub Activity ⚡</h2>
+<h2 align="center">Recent GitHub Activity</h2>
 
 <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Working on private projects
-2. 🌱 Learning new technologies
+1. Working on private projects
+2. Learning new technologies
 <!--END_SECTION:activity-->
 
 <br/>
