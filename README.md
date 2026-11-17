@@ -11,9 +11,9 @@
 
 <div align="center" style="position: relative;">
     
- 🔭 I'm currently working on **web development at Techey**
+  I'm currently working on **web development at Techey**
 
- 💬 Ask me about **Vue, React, Express, Laravel, Postgres SQL, MongoDB...**
+ Ask me about **Vue, React, Express, Laravel, Postgres SQL, MongoDB...**
 
 </div>
 
@@ -36,10 +36,10 @@
 
 <hr/>
  
-<h2 align="center">🛠️ Tech Stack 🛠️</h2>
+<h2 align="center">Tech Stack</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,vue,react,bootstrap,tailwind" />
     <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,mysql,mongodb" />
     <br/>
